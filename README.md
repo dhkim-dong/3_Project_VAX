@@ -31,7 +31,11 @@
 
 :blue_book: GitLab History
 ------------------------
-
+* GitLab에서 작업한 History 내용을 스크린샷으로 저장하여 첨부합니다.
+  * GitLab을 사용한 이유는 SourceTree를 활용하여 **대용량의 Unity Project를 TeamProject로 관리**하기 위해서 입니다.
+  * GitLab과 GitHub를 연동시키는 과정에서 오류가 발생하여 사진으로만 우선 첨부합니다.
+  * 사진을 클릭하시면 History별 작업 Commit 내용을 확인할 수 있습니다.
+<img src="img/four.png">
 
 
 :nail_care: README.md Version ManageMent
