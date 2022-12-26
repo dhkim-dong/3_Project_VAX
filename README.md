@@ -9,11 +9,17 @@
 
 :bulb:   Git-구성
 ------------------------
+* 01_Assets 부터 10_URP로 공통된 폴더 명으로 작업하였습니다.
+  * 각각의 폴더에는 번호_이니셜로 구성된 폴더로 팀 작업 폴더를 구분하였습니다.
+    * git 용량 제한으로 용량이 큰 Asset, Animation, Img, Scene 파일은 제외되었습니다.
 <img src="img/one.png">
-소스코드 블록은 다음과 같이 작성할 수 있습니다.
+07_Scripts 폴더
+<img src="img/two.png">
 
+💾 김동훈 Git 작업 내역
+------------------------
 
-```C
+```C#
 #include<stdio.h>
 
 int main(void){
