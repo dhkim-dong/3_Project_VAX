@@ -3,7 +3,7 @@
 
 > Project VAX는 Unity 2020.3.41f1 버전으로 제작한 팀프로젝트입니다. 
 <br/> **프로젝트 기간** : 2022년 11월 10일 ~ 2022년 12월 9일
-<br/> **개발 인원**    : 4명
+<br/> **개발 인원**    : 5명
 <br/> **게임 장르**    : TPS, Mafia
 <br/> **노션 주소**    : [노션](https://www.notion.so/Unity-C-117ac0c996df4ac284e2e8bdd6b7a7f2?p=a79261e78b964848b5b0d3b542dd25f2&pm=c)
 
@@ -29,36 +29,15 @@
 
 <img src="img/three.png">
 
+:blue_book: GitLab History
+------------------------
 
-```C#
-#include<stdio.h>
 
-int main(void){
-printf("Hello World!");
-return 0;
-}
 
-```
+:nail_care: README.md Version ManageMent
+------------------------
 
-#### Git-Tutorial
+색인|버전|날짜|월|일|작업 내용
+---|---|---|---|---|---|
+1|V1.0|2022년|12월|26일|최초 README.md Commit
 
-순서 없는 목록은 다음과 같이 작성할 수 있습니다.
-
-* 깃 튜토리얼
-  * 깃 Clone
-    * 깃 Pull
-    * 깃 Commit
-   
-인용 구문은 다음과 같이 작성할 수 있습니다.
-
-> '공부합시다 ' -나동빈
-
-테이블은 다음과 같이 작성할 수 있습니다.
-
-이름|영어|정보|수학
----|---|---|---|
-나동빈|98점|87점|72점
-
-강조는 다음과 같이 할 수 있습니다.
-
-**치킨** 먹다가 ~~두드리기~~났어요.
