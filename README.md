@@ -5,7 +5,7 @@
 <br/> **프로젝트 기간** : 2022년 11월 10일 ~ 2022년 12월 9일
 <br/> **개발 인원**    : 5명
 <br/> **게임 장르**    : TPS, Mafia
-<br/> **노션 주소**    : [노션](https://glamorous-timpani-e2c.notion.site/Unity-C-117ac0c996df4ac284e2e8bdd6b7a7f2)
+<br/> **노션 주소**    : [VAX](https://glamorous-timpani-e2c.notion.site/VAX-a79261e78b964848b5b0d3b542dd25f2)
 
 :bulb:   Git-구성
 ------------------------
@@ -45,4 +45,4 @@
 ---|---|---|---|---|---|
 1|V1.0|2022년|12월|26일|최초 README.md Commit
 2|V2.0|2022년|12월|27일|오탈자 수정
-
+3|V3.0|2022년|12월|28일|링크 업데이트
